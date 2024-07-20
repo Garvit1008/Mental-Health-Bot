@@ -20,7 +20,7 @@ st.set_page_config(layout="wide")
 col1, col2 = st.columns([1, 2], gap="large")
 
 with col1:
-    st.image(r"../streamlit/image.png", caption=None, use_column_width=True)
+    st.image(r"streamlit/image.png", caption=None, use_column_width=True)
 
 with col2:
     st.title("Mindful.AI")

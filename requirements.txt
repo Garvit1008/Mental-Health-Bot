@@ -1,0 +1,5 @@
+langchain_community
+langchain
+pinecone-client[grpc]
+-q google-generativeai
+langchain-pinecone
